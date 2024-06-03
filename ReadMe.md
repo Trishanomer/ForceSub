@@ -16,7 +16,7 @@ Forces a user to join your group/channel so as to be able to message in a group.
 Note: `WELCOME_MSG` and `WELCOME_NOT_JOINED` can both be formatted using parameters like `{mention}`, `{title}`, `{fullname}`, `{username}`, `{name}`, `{last}`, `{channel}` and `{count}`
 
 # Deploy to heroku
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/Trishanomer/ForceSub"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-00FFFF?style=for-the-badge&logo=heroku" width="220" height="60"/></a></p>
 
 # Deploy locally
 Watch the tutorial on deploying - https://youtu.be/8JTWG6yFi-4
